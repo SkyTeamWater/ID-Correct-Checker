@@ -12,7 +12,7 @@ int _ICC_Check_ID(){
     return last_word==_ICC_ID[17];
 }
 int main(){
-    scanf("%s",_ICC_ID);
+    for(int i=0;i<18;i++) { scanf("%c",&_ICC_ID[i]); }
     printf("%d",_ICC_Check_ID());
     return 0;
 }
