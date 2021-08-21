@@ -9,7 +9,7 @@
     - C
     - Python
     - JS(见 ___commit 70ce3793705b6abad71ed45613e4685118ed55ce___)
-    - Golang(感谢盗SkyTeamFire邮箱的大佬___commit b42cd2a4a4924294e6d721df3c354a34f0e67c46___)
+    - Golang(感谢盗SkyTeamFire邮箱的大佬 ___commit b42cd2a4a4924294e6d721df3c354a34f0e67c46___)
 - 轻量级
     - C++ ___268KB___
     - C ___147KB___
