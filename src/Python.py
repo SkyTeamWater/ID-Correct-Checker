@@ -39,3 +39,5 @@ if last_word!=10:
     print(last_word)
 else:
     print('X')
+    
+   
